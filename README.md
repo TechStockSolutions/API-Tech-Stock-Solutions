@@ -34,21 +34,21 @@ Sprint | Previsão | Status||
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-<img width="545" alt="image" src="https://github.com/user-attachments/assets/eb543cab-d345-419c-bfa4-8dea9dc3be92">
+
 
 
 ## Sprint 2
-<img width="552" alt="image" src="https://github.com/user-attachments/assets/18c7c27a-cf83-48c8-b61d-59d69aa8f8a7">
+
 
 [https://youtu.be/MlYhT_I2Pk8?feature=shared]
 
 ## Sprint 3
-<img width="546" alt="image" src="https://github.com/user-attachments/assets/3617bfd2-b535-4968-a717-2fcca69d2a33">
+
 
 [https://youtu.be/Bqzb-5DgZDY?feature=shared]
 
-## Sprint 4
-<img width="550" alt="image" src="https://github.com/user-attachments/assets/036ee639-cbdf-4b27-9dd4-7e532d301f57">
+## Feira de soluções
+
 
 [https://youtu.be/gCB_jBZj6l0?feature=shared]
 
