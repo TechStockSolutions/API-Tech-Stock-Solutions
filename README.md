@@ -71,7 +71,8 @@ Sprint | Previsão | Status||
 * Canva
   
 ## Sprint 1 - Concepção
->Sobre a área demandada 
+>Sobre a área demandada
+>[https://youtu.be/0OcqWuF5AEY?feature=shared]
 
 ## Sprint 2 - Desenvolvimento do Projeto
 >Mapeamento de melhoria
