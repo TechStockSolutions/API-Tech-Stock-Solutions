@@ -29,7 +29,7 @@ Sprint | Previsão | Status||
 </p>
 
 # Objetivo do Projeto
->O objetivo de criar um produto para deficientes visuais é promover a **inclusão e acessibilidade**, permitindo que essas pessoas possam realizar atividades do cotidiano com maior autonomia, segurança e conforto. Esses produtos visam **facilitar a interação** com o ambiente e com a tecnologia, superando barreiras relacionadas à falta de visão. Além disso, buscam garantir o **direito à igualdade** e à participação plena na sociedade, respeitando a dignidade e as necessidades específicas dessa população.
+>O objetivo de reduzir custos para a empresa parceira, permitindo que a área visada possa realizar atividades com maior agilidade, segurança e eficiência. Essas melhorias visam **facilitar o processo** com a ferramenta correta , superando barreiras relacionadas aos gargalos. Além disso, buscam garantir o **ambiente de trabalho mais ágil**, respeitando as necessidades específicas de segurança da empresa.
 
 # Funcionalidades e Demonstrações das Sprints
 
