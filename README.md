@@ -1,0 +1,98 @@
+# API-GPI 2025
+Projetos do curso de graduação em Gestão da Produção Industrial. 
+
+Projeto baseado na melhoria da área de filtros de ar da empresa FREUDENBERG, Colaboração e Entrega de Resultados dos estudantes envolvidos.
+
+# Índice
+
+* [Projeto (API)](#projeto-api)
+* [Equipe](#equipe)
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
+* [Autores](#autores)
+
+# Projeto (API) 
+Melhorias para a empresa FREUDENBERG. 
+
+Sprint | Previsão | Status||
+|------|--------|------|--------|
+|Sprint 01| 22/09/2024 | concluido || 
+|Sprint 02| 20/10/2024 | concluido || 
+|Sprint 03| 10/11/2024 | concluido|| 
+|Feira de Soluções | 4/12/2024 | a fazer || 
+
+# Equipe
+
+<p align="center">
+ <img width="668" alt="foto tech stock" src="https://github.com/user-attachments/assets/77d73b5e-a857-49f0-b5cc-f42d577df1ad">
+
+</p>
+
+# Objetivo do Projeto
+>O objetivo de criar um produto para deficientes visuais é promover a **inclusão e acessibilidade**, permitindo que essas pessoas possam realizar atividades do cotidiano com maior autonomia, segurança e conforto. Esses produtos visam **facilitar a interação** com o ambiente e com a tecnologia, superando barreiras relacionadas à falta de visão. Além disso, buscam garantir o **direito à igualdade** e à participação plena na sociedade, respeitando a dignidade e as necessidades específicas dessa população.
+
+# Funcionalidades e Demonstrações das Sprints
+
+## Sprint 1
+<img width="545" alt="image" src="https://github.com/user-attachments/assets/eb543cab-d345-419c-bfa4-8dea9dc3be92">
+
+
+## Sprint 2
+<img width="552" alt="image" src="https://github.com/user-attachments/assets/18c7c27a-cf83-48c8-b61d-59d69aa8f8a7">
+
+[https://youtu.be/MlYhT_I2Pk8?feature=shared]
+
+## Sprint 3
+<img width="546" alt="image" src="https://github.com/user-attachments/assets/3617bfd2-b535-4968-a717-2fcca69d2a33">
+
+[https://youtu.be/Bqzb-5DgZDY?feature=shared]
+
+## Sprint 4
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/036ee639-cbdf-4b27-9dd4-7e532d301f57">
+
+[https://youtu.be/gCB_jBZj6l0?feature=shared]
+
+## Tecnologias Utilizadas
+### Produto 
+* Sprint 1
+ > Sobre a área
+* Sprint 2
+ > Desenvolvimento
+* Sprint 3
+ > Implementação
+
+
+
+### Tecnológias Específicas/Apoio
+* PowerPoint
+* Microsoft Teams
+* Scrum
+* Brainstorm
+* Canva
+  
+## Sprint 1 - Concepção
+>Sobre a área demandada 
+
+## Sprint 2 - Desenvolvimento do Projeto
+>Mapeamento de melhoria
+      
+## Sprint 3 - Implementação
+>Melhoria para a área
+      
+
+# Competências desenvolvidas
+> Trabalho em grupo sempre buscando obter um resultado que satisfaz o cliente e com eficiência, sendo assim tendo visões na qual gestores conseguem vizualizar uma melhoria contínua na qual oferece sempre redução no processo de áreas onde pode-se obter gargalos fazendo com que acabe com os custos da empresa.
+
+
+ 
+
+# Autores
+| Função | Nome |   |
+| - | - | - |
+|Product Owner| João Florindo ||
+|Scrum Master| Gustavo Dall´Oste ||
+|Team Member| Cauã Nunes ||
+|Team Member| Douglas Marçal ||
+|Team Member| Matheus Camargo ||
+|Team Member| Nicolas Taveira ||
+|Team Member| Rodrigo Santos||
