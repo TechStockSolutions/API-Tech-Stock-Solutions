@@ -24,7 +24,7 @@ Sprint | Previsão | Status||
 # Equipe
 
 <p align="center">
- <img width="668" alt="foto tech stock" src="https://github.com/user-attachments/assets/77d73b5e-a857-49f0-b5cc-f42d577df1ad">
+ <[image](https://github.com/user-attachments/assets/fd960167-6fd3-41f8-a0c4-1acd80e9ef26) >
 
 </p>
 
@@ -34,23 +34,23 @@ Sprint | Previsão | Status||
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-
+[https://youtu.be/0OcqWuF5AEY?feature=shared]
 
 
 ## Sprint 2
 
 
-[https://youtu.be/MlYhT_I2Pk8?feature=shared]
+[https://youtu.be/TErC6wcZesQ?feature=shared]
 
 ## Sprint 3
 
 
-[https://youtu.be/Bqzb-5DgZDY?feature=shared]
+[https://youtu.be/SHU2973LUXQ?feature=shared]
 
 ## Feira de soluções
 
 
-[https://youtu.be/gCB_jBZj6l0?feature=shared]
+[https://youtu.be/7n92g2sbCmY?feature=shared]
 
 ## Tecnologias Utilizadas
 ### Produto 
